@@ -1,2 +1,2 @@
-# Diabetics-
-Diabetics patient detection and report generated using SVM algorithm 
+# Diabetics
+Diabetic patient detection and reports generated using the SVM algorithm 
